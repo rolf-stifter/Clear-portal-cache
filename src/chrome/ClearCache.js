@@ -8,7 +8,6 @@
 			$("body").append("It was not possible to clear the cache. Make sure you have the administrator webrole assigned to you!");
 			return;
         }
-        debugger;
         var postData = {}
         var token = form.find("input[name='AboutProductHandlerXSRFToken']");
         var submit = form.find("input[name='clearCache']");

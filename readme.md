@@ -9,3 +9,6 @@ Everyone who worked in Dynamics portals, knows it is a struggle to clear the ser
 
 ### 1.0.1
 - Include check if the user has access to the form at "/_services/about"
+
+### 1.0.2
+- Removed `debugger;` statement in "ClearCache.js"
