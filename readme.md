@@ -6,3 +6,6 @@ Everyone who worked in Dynamics portals, knows it is a struggle to clear the ser
 ## Release notes
 ### 1.0.0
 - Initial release
+
+### 1.0.1
+- Include check if the user has access to the form at "/_services/about"
