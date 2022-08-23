@@ -14,3 +14,6 @@ You can find the extension [here](https://chrome.google.com/webstore/detail/clea
 
 ### 1.0.2
 - Removed `debugger;` statement in "ClearCache.js"
+
+### 1.0.3
+- Update extension logo for better visibility in darker browsers
